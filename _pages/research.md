@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 #### <font size = "+2.5"><b>Research Interests</b></font>
-<table style="border: 0">
+
+<img src = "/images/research.png" style = "padding:30px">
+<!-- <table style="border: 0">
     <tr>
         <td style="border: 0"></td>
         <td style="border: 0"><li><font size = "+1.2">Distributed System</font></li></td>
@@ -30,7 +32,7 @@ author_profile: true
         <td style="border: 0"><li><font size = "+1.2">Human Computer Interaction</font></li></td>
         <td style="border: 0"></td>
     </tr>
-</table>
+</table> -->
 
 #### <font size = "+2.5"><b>Research Experience</b></font>
 ##### <font size = "+1.5"><b>Enabling GPGPU Frameworks for HSA enabled APUs without Discrete GPU support</b></font>
