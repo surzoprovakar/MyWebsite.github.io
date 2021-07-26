@@ -7,7 +7,7 @@ author_profile: true
 
 ### <font size = "+2.5"><b>Professional Projects</b></font>
 ##### <font size = "+1.5"><a href = "https://www.microsoft.com/en-us/p/samsung-notes/9nblggh43vhv?activetab=pivot:overviewtab" target="_blank" rel="noopener noreferrer"><b>Windows Samsung Notes</b></a></font>
-<font size = "-0.5" color = "black">December, 2019 - Present</font>
+<font size = "-0.5" color = "black">December, 2019 - July, 2021</font>
 - Developed an advanced middleware to transfer delta data between the cloud and the application.
 - Designed and developed a proof of concept (PoC) application with the support of a provided SDK.
 - Integrated the tasks of the PoC application to the main project.

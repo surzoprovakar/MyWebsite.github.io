@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Provakar Mondal"
   avatar           : "provakar.jpg"
-  bio              : "<b>Software Engineer (SRBD)</b>"
-  # location         : "Location"
+  bio              : "<b>Graduate Teaching Assistant</b>"
+  location         : "Blacksburg, VA, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,6 +96,7 @@ author:
   flickr           :
   github           : "surzoprovakar"
   linkedin         : "provakar-m"
+  twitter          : "Provakar034"
   facebook         : "provakar.raju/"
   foursquare       :
   google_plus      :
@@ -109,7 +110,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
